@@ -325,7 +325,7 @@ export default function CreateListing() {
           </div>
         </div>
         <div className='flex flex-col flex-1 gap-4'>
-          <p className='font-semibold'>
+          <p className='font-semibold text-white'>
             Images:
             <span className='font-normal text-gray-600 ml-2'>
               The first image will be the cover (max 6)
@@ -334,7 +334,7 @@ export default function CreateListing() {
           <div className='flex gap-4'>
             <input
               onChange={(e) => setFiles(e.target.files)}
-              className='p-3 border border-gray-300 rounded w-full'
+              className='p-3 border border-gray-300 text-white rounded w-full'
               type='file'
               id='images'
               accept='image/*'
