@@ -111,7 +111,7 @@ export default function Listing() {
               )}
             </div>
             <p className='text-white'>
-              <span className='font-semibold text-black'>Description - </span>
+              <span className='font-semibold text-white'>Description - </span>
               {listing.description}
             </p>
             <ul className='text-white font-semibold text-sm flex flex-wrap items-center gap-4 sm:gap-6'>
