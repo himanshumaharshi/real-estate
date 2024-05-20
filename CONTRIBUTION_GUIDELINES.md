@@ -1,16 +1,16 @@
-#Contribution Guidelines
+# Contribution Guidelines
 Thank you for considering contributing to Real-Estate! Contributions are essential to keep the project growing and improving. Please take a moment to review the following guidelines before getting started:
 
-#Bug Reports
+# Bug Reports
  - If you encounter any bugs or issues while using Real-Estate, please open a new issue on GitHub. When submitting a bug report, please include:
 
-#Detailed steps to reproduce the issue.
+# Detailed steps to reproduce the issue.
  - Expected behavior.
  - Any relevant screenshots or error messages.
  - Feature Requests
  - We welcome feature requests! If there's a feature you'd like to see implemented in Real-Estate, please open a new issue on GitHub and label it as a feature request. Provide a clear and detailed description of the feature you're proposing, along with any relevant use cases or examples.
 
-#Pull Requests
+# Pull Requests
 We encourage pull requests from contributors of all experience levels! If you'd like to contribute code to Real-Estate, please follow these steps:
 
  - Fork the repository and create a new branch for your feature or bug fix.
