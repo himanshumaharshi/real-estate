@@ -1,6 +1,6 @@
 <div align='center'>
-
-<img src=https://socialify.git.ci/himanshumaharshi/mern-estate/image?font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Plus&theme=Light alt="logo" width=300 height=150 />
+![mern-estate](https://socialify.git.ci/himanshumaharshi/mern-estate/image?language=1&owner=1&name=1&stargazers=1&theme=Light)
+<!-- <img src=https://socialify.git.ci/himanshumaharshi/mern-estate/image?font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Plus&theme=Light alt="logo" width=300 height=150 /> -->
 
 <h1>REAL-ESTATE</h1>
 <p>Real-Estate is a modern, feature-rich web application built on the MERN stack (MongoDB, Express.js, React.js, Node.js). It provides a robust platform for managing real estate properties efficiently. With seamless integration of technologies like Redux for state management, Firebase for authentication, and JWT and bcrypt for encryption, Real-Estate ensures security and scalability.</p>
