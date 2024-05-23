@@ -113,7 +113,7 @@ Please read the [Code of Conduct](https://github.com/himanshumaharshi/mern-estat
 
 ## :warning: License
 
-Distributed under the [MIT License](https://github.com/himanshumaharshi/mern-estate/blob/master/LICENSE.md).
+Distributed under the [MIT License](https://github.com/himanshumaharshi/mern-estate/blob/master/LICENSE).
 
 ## :handshake: Contact
 
